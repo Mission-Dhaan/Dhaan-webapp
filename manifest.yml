@@ -1,0 +1,5 @@
+---
+applications:
+ - name: DhaanUI
+   random-route: true
+   memory: 256M
