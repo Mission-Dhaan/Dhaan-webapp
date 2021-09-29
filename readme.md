@@ -241,11 +241,10 @@ If you have found a bug or if you have a feature request, please report them at 
 You can join Dhaan at: https://dhaanui.herokuapp.com/
 
 ## Team
-- **Bharathi Athinarayanan** - _AI / ML  Architect & Team Lead_ 
-- **Baji Jinka** - _Senior Front End UI / UX Developer_
+- **Suneetha J** - _Senior Full Stack Developer & Team Lead_
+- **Bharathi Athinarayanan** - _AI / ML  Architect_ 
 - **Prashanth P** - _Senior Full Stack Developer_
-- **Purushothaman Srikanth** - _UX / Data Engineering_
-- **Raghavendra K** - _Deployment Support Engineer_ 
+
 ## License
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 ## Acknowledgments
