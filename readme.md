@@ -48,7 +48,9 @@ IBM Cloud :</br>
 
 ## Demo video
 
-[![Watch the video](./images/DHAAN_Video_preview_image.jpg)](https://www.youtube.com/watch?v=1yyHiCNl2m4&ab_channel=DHAAN)
+[![Watch the video](./images/DHAAN_Video_preview_image.jpg)]
+
+https://drive.google.com/file/d/1FUX4S7MVy_cxwYCmowpVX4RHBgs4gM3-/view?usp=sharing
 
 ## Architecture Overview
 
