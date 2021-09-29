@@ -243,7 +243,7 @@ If you have found a bug or if you have a feature request, please report them at 
 You can join Dhaan at: https://dhaanui.herokuapp.com/
 
 ## Team
-- **Suneetha J** - _Senior Full Stack Developer & Team Lead_
+- **Suneetha J** - _Senior Full Stack Developer_
 - **Bharathi Athinarayanan** - _AI / ML  Architect_ 
 - **Prashanth P** - _Senior Full Stack Developer_
 
