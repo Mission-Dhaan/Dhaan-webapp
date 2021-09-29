@@ -50,7 +50,7 @@ IBM Cloud :</br>
 
 [![Watch the video](./images/DHAAN_Video_preview_image.jpg)]
 
-https://drive.google.com/file/d/1FUX4S7MVy_cxwYCmowpVX4RHBgs4gM3-/view?usp=sharing
+Demo video link: https://drive.google.com/file/d/1FUX4S7MVy_cxwYCmowpVX4RHBgs4gM3-/view?usp=sharing
 
 ## Architecture Overview
 
